@@ -1,0 +1,1 @@
+Revision represents the version of the source code. Revisions in Git are represented by commits. These commits are identified by SHA1 secure hashes.
